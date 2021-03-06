@@ -1,1 +1,18 @@
 /*font-family: 'Akaya Telivigala', cursive; */
+.hero {
+  text-align: center;
+  background-image: url("https://images.unsplash.com/photo-1573496005828-adb22e525798?ixid=MXwxMjA3fDB8MHxzZWFyY2h8NDJ8fHdlYiUyMGRlc2lnbmVyfGVufDB8fDB8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1400&q=60");
+  padding: 160px 20px;
+}
+
+.tagline {
+  font-size: 72px;
+  font-family: "Akaya Telivigala", cursive;
+}
+
+.btn-branding {
+  background: #a96e7b;
+  border-radius: 4px;
+  font-size: 18px;
+  padding: 15px 20px;
+}
