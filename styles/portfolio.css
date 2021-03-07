@@ -23,6 +23,14 @@
   padding-bottom: 40px;
 }
 
+.about-section {
+  padding: 160px 20px;
+}
+
+.about-section h1 {
+  font-size: 60px;
+}
+
 .btn-branding:hover {
   color: #ffffff;
   text-decoration: underline;
