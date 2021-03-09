@@ -31,6 +31,43 @@
   font-size: 60px;
 }
 
+.work-section {
+  padding: 160px 20px;
+  border: 2px solid #a96e7b;
+}
+
+.my-work {
+  font-size: 60px;
+  text-align: center;
+  background: #a96e7b;
+  color: #ffffff;
+}
+
+.app-description {
+  align-items: center;
+  text-align: center;
+  font-weight: 500;
+  padding: 100px 20px;
+  font-size: 24px;
+}
+
+.contact-me {
+  padding: 100px 20px;
+}
+
+.contact-me p {
+  font-size: 24px;
+  text-align: center;
+  font-weight: 500;
+}
+
+.contact {
+  font-size: 60px;
+  text-align: center;
+  background: #a96e7b;
+  color: #ffffff;
+}
+
 .btn-branding:hover {
   color: #ffffff;
   text-decoration: underline;
