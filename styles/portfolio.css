@@ -3,7 +3,8 @@
   text-align: center;
   background-image: url("https://images.unsplash.com/photo-1573496005828-adb22e525798?ixid=MXwxMjA3fDB8MHxzZWFyY2h8NDJ8fHdlYiUyMGRlc2lnbmVyfGVufDB8fDB8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1400&q=60");
   padding: 160px 20px;
-  background-position: 70% 30%;
+  background-position: 60% 40%;
+  background-repeat: no-repeat;
 }
 
 .name {
@@ -81,4 +82,30 @@
   padding: 15px 20px;
   color: #ffffff;
   box-shadow: 2px 2px 2px #ffffff;
+}
+
+footer p {
+  background: #a96e7b;
+  color: #ffffff;
+  padding-bottom: 30px;
+  padding-top: 30px;
+}
+
+.git-link {
+  font-size: 40px;
+  color: #a96e7b;
+}
+
+@media (max-width: 900px) {
+  .tagline {
+    font-size: 50px;
+  }
+
+  .description {
+    padding-left: 0px;
+  }
+
+  .about-section {
+    padding: 100px 20px;
+  }
 }
